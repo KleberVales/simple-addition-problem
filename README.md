@@ -15,8 +15,8 @@ Complete the function solveMeFirst to compute the sum of two integers.
 Provide the sum within the given inputs.
 
 - Example:
-  * Input:
+  * Input:\
     a = 2, b = 3
 
-  * Output:
+  * Output:\
     5

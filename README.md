@@ -7,3 +7,5 @@ Complete the function solveMeFirst to compute the sum of two integers.
 - Parameters:
   * int a: the first integer.
   * int b: the second integer.
+ 
+ - Returns:

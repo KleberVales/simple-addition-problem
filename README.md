@@ -9,3 +9,4 @@ Complete the function solveMeFirst to compute the sum of two integers.
   * int b: the second integer.
  
  - Returns:
+   * int: the sum of a and b.

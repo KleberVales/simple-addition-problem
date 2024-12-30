@@ -13,3 +13,10 @@ Complete the function solveMeFirst to compute the sum of two integers.
   
 ### Constraints:
 Provide the sum within the given inputs.
+
+- Example:
+  * Input:
+    a = 2, b = 3
+
+  * Output:
+    5
